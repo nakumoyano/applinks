@@ -1,0 +1,35 @@
+{
+  "greeting": "A bit of everything",
+  "light": "LightMode",
+
+  "home": "Home",
+  "movies": "Movies",
+  "series": "Series",
+  "aplicaciones": "Applications",
+  "games": "Games",
+  "contact": "Contact",
+
+  "todo": "Everything you are looking for in one place",
+
+  "titlemovie": "Movies",
+  "titleapp": "Applications",
+  "titlegame": "Games",
+
+  "search": "Search..",
+
+  "carddownload": "Download",
+
+  "gallery": "GALLERY",
+  "about-us": "ABOUT US",
+  "tabout": "We are a website designed to provide you with the greatest entertainment and comfort, uniting on the same platform, totally free links to movies, games, apps and more so that you can make your days more fun.",
+
+  "contact-us": "Contact Us",
+  "textcontact": "Complete the form and our team will contact you within 24 hours.",
+  "name": "Name",
+  "lastname": "LastName",
+  "phone": "Phone",
+  "message": "Message",
+  "submit": "Submit",
+
+  "usernameError": "The name is required!"
+}

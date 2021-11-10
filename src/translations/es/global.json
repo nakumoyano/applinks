@@ -1,0 +1,35 @@
+{
+  "greeting": "Un Poco de Todo",
+  "light": "Modo Iluminado",
+
+  "home": "Inicio",
+  "movies": "Películas",
+  "series": "Series",
+  "aplicaciones": "Aplicaciones",
+  "games": "Juegos",
+  "contact": "Contacto",
+
+  "todo": "Todo lo que buscas en un solo lugar",
+
+  "titlemovie": "Películas",
+  "titleapp": "Aplicaciones",
+  "titlegame": "Juegos",
+
+  "search": "Buscar..",
+
+  "carddownload": "Descargar",
+
+  "gallery": "GALERÍA",
+  "about-us": "SOBRE NOSOTROS",
+  "tabout": "Somos un sitio web pensado para brindarte el mayor entretenimiento y comodidad, uniendo en una misma plataforma, links totalmente gratuitos de pelis,juegos,apps y mas para que hagas tus días más divertidos.",
+
+  "contact-us": "Contáctanos",
+  "textcontact": "Complete el formulario y nuestro equipo se pondrá en contacto con usted en un plazo de 24 horas.",
+  "name": "Nombre",
+  "lastname": "Apellido",
+  "phone": "Teléfono",
+  "message": "Mensaje",
+  "submit": "Enviar",
+
+  "usernameError": "El nombre es requerido!"
+}
